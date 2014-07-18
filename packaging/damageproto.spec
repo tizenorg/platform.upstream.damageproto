@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:           damageproto
 Version:        1.2.1
 Release:        1
